@@ -1,4 +1,4 @@
-# Myproject
+# Count of names
 Project Description
 
 The program in main.py contains a variable (of type list) called list_of_names that has a list of 500 names.
